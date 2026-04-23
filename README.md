@@ -40,14 +40,14 @@ expense-tracker/
 ## Demo
 
 📺 Watch the full demo on YouTube:  
-[Click to Watch Demo](https://www.youtube.com/watch?v=080oQLMAtt0)
+[Click to Watch Demo](https://www.youtube.com/watch?v=Is0nafHDwHc)
 
 ---
 
 ## Project Overview
 
 For a complete breakdown of features, architecture, and implementation details:  
-[Read Full Project Documentation](https://portfolio.tjzenn.com/projects/flashcard)
+[Read Full Project Documentation](https://portfolio.tjzenn.com/projects/expense-tracker)
 
 Explore more of my work on my portfolio:  
 [Visit My Portfolio](https://portfolio.tjzenn.com)
